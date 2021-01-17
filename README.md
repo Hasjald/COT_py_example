@@ -1,2 +1,3 @@
 # COT_tutorial
-simple put and get through python to circusofthings.com
+simple put and get with python to circusofthings.com
+utilising the REST api
